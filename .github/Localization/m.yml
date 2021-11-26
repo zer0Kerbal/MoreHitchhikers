@@ -1,0 +1,9 @@
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          title: Localization - Master
+          content-filepath: ./templates/master.md
+          labels: |
+            localization
+            help wanted
+          assignees: zer0Kerbal
