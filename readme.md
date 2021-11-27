@@ -16,7 +16,7 @@ v1.0.0.4 for KSP v1.7.x - Tuna Cans and Trees ReStocked
 ![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
 
 ## More Hitchhikers (MHH)
-### Adds nine (9) `(+five (5) new)` stock parts to Kerbal Space Program
+### Adds fourteen (14) stock Hitchhiker parts to Kerbal Space Program
 
 ![More Hitchhikers](https://i.postimg.cc/Vs3rb8wH/Heroshot-3-labels.png)
 
@@ -55,32 +55,32 @@ v1.0.0.4 for KSP v1.7.x - Tuna Cans and Trees ReStocked
 - Install related ModuleManager patches.
 
 ### Changelog Summary
-*See ![ChangeLog](https://github.com/zer0Kerbal/KGRx/MoreHitchhikers/Changelog.cfg) for full details of mod changes*
+*See [ChangeLog](https://github.com/zer0Kerbal/KGRx/MoreHitchhikers/Changelog.cfg) for full details of mod changes*
 
 ### Requires:
- * ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions *(YMMV)*
- * ![ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+ * [Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.x, ***may*** work on earlier versions *(YMMV)*
+ * [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
 
 ### Supports:
- * ***[NEW]*** ![USI-LS](https://github.com/UmbraSpaceIndustries/USI-LS)
- * ***[NEW]*** ![ReStock](https://github.com/PorktoberRevolution/ReStocked)
- * ***[NEW]*** ![Kerbalism](https://github.com/Kerbalism/Kerbalism)
- * ***[NEW]*** ![KeepFit]()
- * ***[NEW]*** ![BreakingGround]()
- * ***[NEW]*** ![TACLS]()
- * ***[NEW]*** ![Kerbal Inventory System]()
- * ![On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
- * ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- * ![Connected Living Space](https://github.com/codepoetpbowden/ConnectedLivingSpace)
- * ![Stockalike Station Parts Expansion Redux (SSPXr)](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*)  (End cap switching requires B9)
+ * ***[NEW]*** [USI-LS](https://github.com/UmbraSpaceIndustries/USI-LS)
+ * ***[NEW]*** [ReStock](https://github.com/PorktoberRevolution/ReStocked)
+ * ***[NEW]*** [Kerbalism](https://github.com/Kerbalism/Kerbalism)
+ * ***[NEW]*** [KeepFit]()
+ * ***[NEW]*** [BreakingGround]()
+ * ***[NEW]*** [TACLS]()
+ * ***[NEW]*** [Kerbal Inventory System]()
+ * [On Demand Fuel Cells Refueled](https://github.com/zer0Kerbal/ODFCr)
+ * [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+ * [Connected Living Space](https://github.com/codepoetpbowden/ConnectedLivingSpace)
+ * [Stockalike Station Parts Expansion Redux (SSPXr)](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*)  (End cap switching requires B9)
 
  ### Suggests:
-  * ![KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
-  * ![KGEx DuoPods](https://github.com/zer0Kerbal/KGEx/DuoPods)
-  * ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
-  * ![ReStock](https://github.com/PorktoberRevolution/ReStocked)
-  * ![Stockalike Station Parts Expansion Redux (SSPXr)](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*)
-  * ![B9 Part Switch](http://forum.kerbalspaceprogram.com/index.php?showtopic=140541-*)
+  * [KGEx (coming soon)](https://github.com/zer0Kerbal/KGEx)
+  * [KGEx DuoPods](https://github.com/zer0Kerbal/KGEx/DuoPods)
+  * [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
+  * [ReStock](https://github.com/PorktoberRevolution/ReStocked)
+  * [Stockalike Station Parts Expansion Redux (SSPXr)](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*)
+  * [B9 Part Switch](http://forum.kerbalspaceprogram.com/index.php?showtopic=140541-*)
 
 ### Conflicts:
  * None
