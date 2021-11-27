@@ -5,7 +5,7 @@ updated: 05 Oct 19 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# KerbGuise Experimental engineering (KGEx)
+# KGEx
 #### Brings you:
 ## *More Hitchhikers* by zer0Kerbal
 v1.0.0.4 for KSP v1.7.x - Tuna Cans and Trees ReStocked
